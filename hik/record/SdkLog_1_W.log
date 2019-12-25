@@ -1,0 +1,7 @@
+[2019-12-25 12:42:33.537][INF] The COM:HCCoreBase ver is 1.0.0.1, 2018_06_01. Async:1.
+[2019-12-25 12:42:33.538][INF] The COM:Core ver is 6.0.2.35, 2019_04_11. Async:1.
+[2019-12-25 12:42:33.538][INF] This HCNetSDK ver is 6.0.2.35 Ver 2019_04_11.
+[2019-12-25 12:42:33.538][INF] Login dev 10.0.0.32:8000.
+[2019-12-25 12:42:36.617][ERR] Private connect 10.0.0.32:8000 sock=13 this=0x1329bd4 cmd=0x10000 sys_err=113, timeout= 3500
+[2019-12-25 12:42:36.617][ERR] [10.0.0.32:8000]LogonDevice Link_CreateLink fail[7].
+[2019-12-25 12:42:36.620][INF] COM_Logout[-1][0]

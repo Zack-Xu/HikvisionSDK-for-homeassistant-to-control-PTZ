@@ -1,0 +1,8 @@
+[2019-12-11 11:59:43.438][ERR]  GetCAPath, Failed, Invalid pPath
+[2019-12-11 12:00:43.896][ERR]  GetCAPath, Failed, Invalid pPath
+[2019-12-11 12:01:44.362][ERR]  GetCAPath, Failed, Invalid pPath
+[2019-12-11 12:02:44.837][ERR]  GetCAPath, Failed, Invalid pPath
+[2019-12-11 12:03:45.396][ERR]  GetCAPath, Failed, Invalid pPath
+[2019-12-11 12:04:45.892][ERR]  GetCAPath, Failed, Invalid pPath
+[2019-12-11 12:04:49.938][INF] CTransUnitMgr::UnloadTransUnitLib
+[2019-12-11 12:04:49.939][DBG] CStreamConvert::UnloadConvertLib, m_iInitCount = 0
